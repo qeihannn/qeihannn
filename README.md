@@ -65,8 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/qeihannn/qeihannn/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
