@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a Front-End Developer from Tanjungpinang, Indonesia.<br><br>🔭 Right now im am at senior high school and as an Intern at Elemes Group<br><br>📚 I'm currently learning about Front-End development and modern web technologies<br><br>⚡ In my free time I explore new programming tools, build personal projects, and keep learning new things <br><br>💪 I have some hobbies that I would like to do including silat, MMA, boxing, and sometimes learn how to wrestle, cuz i have zore grappling 🤣 <br><br><br>THERE IS ALWAYS ROOM TO GROW 🚀</p>
+<p align="left">I'm a Front-End Developer from Tanjungpinang, Indonesia.<br><br>🔭 Right now im am at senior high school and as an Intern at Elemes Group<br><br>📚 I'm currently learning about Front-End development and modern web technologies<br><br>⚡ In my free time I explore new programming tools, build personal projects, and keep learning new things <br><br>💪 I have some hobbies that I would like to do including Silat, MMA, Boxing, and sometimes learn how to Wrestle, cuz i have zero grappling 🤣 <br><br><br>THERE IS ALWAYS ROOM TO GROW 🚀</p>
 
 ###
 
