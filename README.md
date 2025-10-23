@@ -9,13 +9,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=qeihannn.qeihannn&"  />
-</div>
-
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -23,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a Front-End Developer from Tanjungpinang, Indonesia.<br><br>🔭 Right now as an Intern at Elemes Group<br><br>📚 I'm currently learning about Front-End development and modern web technologies<br><br>⚡ In my free time I explore new programming tools, build personal projects, and keep learning new things <br><br>💪 I have some hobbies that I would like to do including silat, MMA, boxing, and sometimes learn how to grappling, cuz i have zore grappling 🤣 <br><br><br>THERE IS ALWAYS ROOM TO GROW 🚀</p>
+<p align="left">I'm a Front-End Developer from Tanjungpinang, Indonesia.<br><br>🔭 Right now im am at senior high school and as an Intern at Elemes Group<br><br>📚 I'm currently learning about Front-End development and modern web technologies<br><br>⚡ In my free time I explore new programming tools, build personal projects, and keep learning new things <br><br>💪 I have some hobbies that I would like to do including silat, MMA, boxing, and sometimes learn how to grappling, cuz i have zore grappling 🤣 <br><br><br>THERE IS ALWAYS ROOM TO GROW 🚀</p>
 
 ###
 
@@ -43,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
@@ -51,6 +48,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
@@ -67,5 +69,8 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=qeihannn.qeihannn&"  />
+</div>
 
 ###
